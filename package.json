@@ -1,0 +1,19 @@
+{
+  "name": "@luismeza-trypdate/mygithubpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismeza-trypdate/mygithubpackage.git"
+  },
+  "author": "luismeza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismeza-trypdate/mygithubpackage/issues"
+  },
+  "homepage": "https://github.com/luismeza-trypdate/mygithubpackage#readme"
+}
