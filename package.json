@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/luismeza-trypdate/mygithubpackage.git"
   },
+  "publishConfig": {
+    "@luismeza-trypdate:registry": "https://npm.pkg.github.com"
+  },
   "author": "luismeza",
   "license": "ISC",
   "bugs": {
